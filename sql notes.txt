@@ -1,0 +1,16 @@
+Triggers
+	tricky issues
+		row-level vs. statement-level
+			new/old row and New/old table
+		
+		multiple triggers activated at same time
+		trigger actions activating other triggers (chaining)
+			also self-triggering, cycles, nested innovations
+	
+		conditions in when vs. as part of action
+	
+	triggers: when event occurs, check condition; if true, do action
+	
+	triggers Demo 
+	
+	SQLite - row-level triggers, immediate activation
